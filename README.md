@@ -6,4 +6,4 @@
 * Handle Subscriptions like lists all the subscriptions, insert or delete a subscription.
 * Retrieve information about comments like replies to a specific comment identified by a parentId etc.
 
-In this project I am fetching youtube users information and Statistics with the help of google API.
+In this project I am fetching youtube user's information and Statistics with the help of google API.
